@@ -5,3 +5,9 @@ PRÁCTICA 1 - Informe sobre accesibilidad web.
 
 
 PRÁCTICA 2 - Diseño de la interfaz.
+
+
+PRÁCTICA 3 - Diseño arquitectónico de una aplicación.
+
+
+PRÁCTICA 4 - Elección de una arquitectura.
