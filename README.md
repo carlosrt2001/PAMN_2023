@@ -25,5 +25,10 @@ PRÁCTICA 8 - Arquitectura para una app Android.
 PRÁCTICA 9 - Calidad en el software.
 
 
+SPRINT 0 - Funcionalidades de la primera versión de la app.
+
+
+SPRINT 1 - Funcionalidades de la segunda versión de la app.
+
 
 CodeLab1 - Tu Primera App para Android.
