@@ -13,5 +13,17 @@ PRÁCTICA 3 - Diseño arquitectónico de una aplicación.
 PRÁCTICA 4 - Elección de una arquitectura.
 
 
+PRÁCTICA 6 - Diseño de la base de datos.
+
+
+PRÁCTICA 7 - Patrones de diseño.
+
+
+PRÁCTICA 8 - Arquitectura para una app Android.
+
+
+PRÁCTICA 9 - Calidad en el software.
+
+
 
 CodeLab1 - Tu Primera App para Android.
