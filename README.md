@@ -31,4 +31,7 @@ SPRINT 0 - Funcionalidades de la primera versión de la app.
 SPRINT 1 - Funcionalidades de la segunda versión de la app.
 
 
+SPRINT 2 - Funcionalidades de la tercera versión de la app.
+
+
 CodeLab1 - Tu Primera App para Android.
